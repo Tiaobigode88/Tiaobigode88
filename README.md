@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **César**
 - 👀 I’m interested in aprender linguagem de programação 
-- 🌱 I’m currently learning códigos de programação 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning o básico sobre códigos de programação 
+- 💞️ I’m looking to collaborate on conhecimento
 - 📫 How to reach me no Instagram @cesinha_aqs
 
 <!---
